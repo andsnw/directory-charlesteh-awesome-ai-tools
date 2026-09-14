@@ -116,6 +116,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 
 ## Development Tools
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree
+- [Solgrok](https://github.com/LMajster/sgrok) - Autonomous Solana creator-ops agent running 24/7 for creator rewards ($SGROK); site https://lmajster.github.io/sgrok/ ; Bags https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
 - [ModelRush](https://modelrush.ai/) - Hosted APIs for text, image, video, and voice models, with prepaid usage credits
 - [Txt2SQL](https://txt2sql.com/) - Generate SQL queries with AI
 - [WrapFast](https://wrapfa.st/) - Launch AI Wrappers or any iOS apps quickly with boilerplate code
