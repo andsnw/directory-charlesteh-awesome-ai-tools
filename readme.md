@@ -46,6 +46,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Aurwy](https://aurwy.com/) - Boost creativity with AI-driven tools  
 - [FridayGPT](https://www.fridaygpt.app/) - Seamless voice to text and ChatGPT access
 - [Fridge Leftovers AI](https://fridgeleftoversai.com/) - Transform leftovers into culinary delights
+- [Dom Frame](https://domframe.silentdirectivellc.com/?utm_source=awesome-ai-tools&utm_medium=resource-directory) - An AI texting coach: paste a conversation and get a read on it plus a reply you can actually send. Browser demo, also on iPhone.
 
 ## Marketing/Branding  
 - [Shakespeare](https://www.shakespeare.ai/) - Revolutionizing marketing with AI precision
